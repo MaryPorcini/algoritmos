@@ -3,10 +3,21 @@ Iniciando tutorial do python
 O que é o Python?
 Python é uma linguagem de programação de alto nível, interpretada e orientada a objetos.É conhecida pela sua simplicidadee legibilidade, o que o torna popular entre iniciantes e experientes em programação.
 
-Passo a passo fazer o download
+Passo a passo fazer o DOWNLOAD
 
 Acesse o site oficial do Python em python.org.
 Navegue até a seção de downloads.
 Escolha a versão do Python que deseja baixar (recomenda-se a versão mais recente estável, a menos que você tenha requisitos específicos para uma versão mais antiga).
 Selecione o instalador adequado para o seu sistema operacional (Windows, macOS, Linux, etc.).
 Faça o download do instalador e siga as instruções para instalar o Python em seu computador.
+
+Passo a passo fazer a INSTALAÇÃO
+
+Acesse o site oficial do Python: Vá para python.org e clique em "Downloads".
+Selecione a versão do Python: Escolha a versão mais recente do Python (por exemplo, Python 3.10.3) para Windows.
+Baixe o instalador: Clique no link para baixar o instalador executável para Windows (por exemplo, "Windows Installer (64-bit)").
+Inicie o instalador: Após o download, execute o arquivo baixado (geralmente com extensão .exe). O instalador do Python será iniciado.
+Opções de instalação: No instalador, você terá a opção de personalizar a instalação. Você pode escolher adicionar o Python ao PATH do sistema e outras opções. Recomendo deixar as opções padrão marcadas para uma instalação básica.
+Instale o Python: Clique em "Install Now" (Instalar Agora) para iniciar o processo de instalação. O instalador instalará o Python e configurará tudo automaticamente.
+Conclua a instalação: Após a conclusão da instalação, você verá uma mensagem indicando que o Python foi instalado com sucesso.
+Verifique a instalação: Abra o prompt de comando do Windows e digite python --version para verificar se o Python foi instalado corretamente. Você verá a versão do Python instalada.
