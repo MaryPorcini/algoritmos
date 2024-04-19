@@ -9,3 +9,10 @@ PASSO A PASSO PARA DOWNLOAD
 1. Acesse o site oficial do Visual Studio Code em https://code.visualstudio.com/.
 2. Clique no botão "Download" para baixar o instalador adequado para o seu sistema operacional (Windows, macOS, Linux).
 
+PASSO A PASSO PARA INSTALAÇÃO
+
+1. Após o download, execute o arquivo baixado para iniciar o instalador do VSCode.
+2. Siga as instruções na tela para concluir a instalação, geralmente mantendo as opções padrão.
+3. Após a instalação, você pode executar o VSCode a partir do menu de aplicativos do seu sistema operacional.
+4. O VSCode está pronto para uso! Explore suas funcionalidades, personalize-o conforme necessário e comece a programar.
+
