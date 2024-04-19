@@ -1,23 +1,41 @@
 Iniciando tutorial do python
 
-O que é o Python?
+O QUE É PYTHON?
 Python é uma linguagem de programação de alto nível, interpretada e orientada a objetos.É conhecida pela sua simplicidadee legibilidade, o que o torna popular entre iniciantes e experientes em programação.
 
-Passo a passo fazer o DOWNLOAD
+PASSO A PASSO PARA DOWNLOAD
 
-Acesse o site oficial do Python em python.org.
-Navegue até a seção de downloads.
-Escolha a versão do Python que deseja baixar (recomenda-se a versão mais recente estável, a menos que você tenha requisitos específicos para uma versão mais antiga).
-Selecione o instalador adequado para o seu sistema operacional (Windows, macOS, Linux, etc.).
-Faça o download do instalador e siga as instruções para instalar o Python em seu computador.
+1.Acesse o site oficial do Python em python.org.
+2.Navegue até a seção de downloads.
+3.Escolha a versão do Python que deseja baixar (recomenda-se a versão mais recente estável, a menos que você tenha requisitos específicos para uma versão mais antiga).
+4.Selecione o instalador adequado para o seu sistema operacional (Windows, macOS, Linux, etc.).
+5.Faça o download do instalador e siga as instruções para instalar o Python em seu computador.
 
-Passo a passo fazer a INSTALAÇÃO
+PASSO A PASSO PARA INSTALAÇÃO
 
-Acesse o site oficial do Python: Vá para python.org e clique em "Downloads".
-Selecione a versão do Python: Escolha a versão mais recente do Python (por exemplo, Python 3.10.3) para Windows.
-Baixe o instalador: Clique no link para baixar o instalador executável para Windows (por exemplo, "Windows Installer (64-bit)").
-Inicie o instalador: Após o download, execute o arquivo baixado (geralmente com extensão .exe). O instalador do Python será iniciado.
-Opções de instalação: No instalador, você terá a opção de personalizar a instalação. Você pode escolher adicionar o Python ao PATH do sistema e outras opções. Recomendo deixar as opções padrão marcadas para uma instalação básica.
-Instale o Python: Clique em "Install Now" (Instalar Agora) para iniciar o processo de instalação. O instalador instalará o Python e configurará tudo automaticamente.
-Conclua a instalação: Após a conclusão da instalação, você verá uma mensagem indicando que o Python foi instalado com sucesso.
+1.Acesse o site oficial do Python: Vá para python.org e clique em "Downloads".
+
+2.Selecione a versão do Python: Escolha a versão mais recente do Python (por exemplo, Python 3.10.3) para Windows.
+
+3.Baixe o instalador: Clique no link para baixar o instalador executável para Windows (por exemplo, "Windows Installer (64-bit)").
+
+4.Inicie o instalador: Após o download, execute o arquivo baixado (geralmente com extensão .exe). O instalador do Python será iniciado.
+
+5.Opções de instalação: No instalador, você terá a opção de personalizar a instalação. Você pode escolher adicionar o Python ao PATH do sistema e outras opções. Recomendo deixar as opções padrão marcadas para uma instalação básica.
+
+6.Instale o Python: Clique em "Install Now" (Instalar Agora) para iniciar o processo de instalação. O instalador instalará o Python e configurará tudo automaticamente.
+
+7.Conclua a instalação: Após a conclusão da instalação, você verá uma mensagem indicando que o Python foi instalado com sucesso.
+
 Verifique a instalação: Abra o prompt de comando do Windows e digite python --version para verificar se o Python foi instalado corretamente. Você verá a versão do Python instalada.
+
+
+PASSO A PASSO PARA CONFIGURAR O VIRTUALENV PELO PYTHON
+
+1. Instalação do virtualenv: Primeiro, instale o virtualenv se ainda não estiver instalado. Você pode fazer isso usando o pip, o gerenciador de pacotes do Python, com o comando: pip install virtualenv.
+
+2. Criação de um ambiente virtual: No terminal ou prompt de comando, navegue até o diretório onde deseja criar o ambiente virtual e execute o comando: virtualenv nome_do_ambiente. Substitua "nome_do_ambiente" pelo nome que deseja dar ao seu ambiente.
+
+3. Ativação do ambiente virtual: Depois que o ambiente virtual for criado, você precisará ativá-lo. No Windows, você pode fazer isso executando o comando: nome_do_ambiente\Scripts\activate.bat. No Linux/Mac, use o comando: source nome_do_ambiente/bin/activate. Você saberá que o ambiente está ativado porque o nome do ambiente será exibido no prompt.
+
+4. Desativação do ambiente virtual: Quando terminar de trabalhar no ambiente virtual e quiser retornar ao ambiente global, basta executar o comando deactivate.
