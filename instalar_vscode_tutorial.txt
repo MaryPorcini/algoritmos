@@ -1,0 +1,5 @@
+INICIANDO TUTORIAL DO VSCODE 
+
+O QUE É VSCODE?
+
+O Visual Studio Code (VSCode) é um editor de código-fonte desenvolvido pela Microsoft, conhecido por sua interface leve e altamente personalizável. Ele oferece suporte a várias linguagens de programação e possui recursos como realce de sintaxe, sugestões inteligentes de código, depuração integrada e controle de versionamento com Git.
