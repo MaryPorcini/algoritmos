@@ -2,6 +2,10 @@ programa {
   funcao inicio() {
 
     real dist, vel, temp
+    cadeia nome
+
+    escreva("Digite o nome do motorista da viagem: ")
+    leia(nome)
 
 
     escreva("Digite a distância percorrida (km): ")
