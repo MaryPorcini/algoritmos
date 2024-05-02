@@ -7,7 +7,6 @@ programa {
     escreva("Digite o nome do motorista da viagem: ")
     leia(nome)
 
-
     escreva("Digite a distância percorrida (km): ")
     leia(dist)
     escreva("Digite a velocidade (km/h): ")

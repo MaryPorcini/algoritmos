@@ -5,7 +5,10 @@ programa {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> pedir_nome
 =======
 >>>>>>> pedir_nome
 =======
@@ -16,6 +19,9 @@ programa {
     leia(nome)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> pedir_nome
+=======
 >>>>>>> pedir_nome
 =======
 >>>>>>> pedir_nome
