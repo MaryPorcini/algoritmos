@@ -1,25 +1,15 @@
 programa {
   funcao inicio() {
 
+<<<<<<< HEAD
     real dist, vel, temp
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> pedir_nome
-=======
->>>>>>> pedir_nome
+    real dist, vel, temp    
     cadeia nome
 
     escreva("Digite o nome do motorista da viagem: ")
     leia(nome)
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> pedir_nome
-=======
->>>>>>> pedir_nome
-=======
+
 >>>>>>> pedir_nome
 
     escreva("Digite a distância percorrida (km): ")
